@@ -184,7 +184,7 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
   - "Un repositorio es..." → `[tu carpeta + la carpeta .git]`
   - "Un commit es..." → `[un punto de guardado con cambios]`
   - "Una rama es..." → `[una línea de desarrollo]`
-- [x]] Si completaste correctamente las 3 → ✅ Marca este checkpoint
+- [x] Si completaste correctamente las 3 → ✅ Marca este checkpoint
 
 ---
 
